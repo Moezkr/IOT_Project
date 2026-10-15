@@ -99,6 +99,11 @@ Une démonstration complète du fonctionnement en temps réel, de la génératio
 
 * **Fichier vidéo local :** [`demo.mp4`](demo.mp4)
 
+
+https://github.com/user-attachments/assets/e349a005-28a5-44d9-b348-05e680e10055
+
+
+
 ---
 
 # Stack Technologique
